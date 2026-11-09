@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
