@@ -17,12 +17,25 @@ My first steps into regression models.
 - Training a simple regression model
 - Making predictions using Python
 
+### 02 — Linear Regression From Scratch ⚙️
+
+Taking a deeper look into how Machine Learning algorithms work under the hood.
+
+- Implemented my own Linear Regression model from scratch
+- Learned how Gradient Descent works
+- Explored Stochastic Gradient Descent (SGD)
+- Understood how models update their parameters to minimize errors
+- Gained a deeper understanding of the mathematics behind model training
+
+
+
 ## 🛠️ Tech Stack
 
 - Python
 - Scikit-learn
 - Pandas
 - NumPy
+- PyTorch
 
 ## 🚀 How to Run
 
